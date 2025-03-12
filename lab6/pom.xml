@@ -17,6 +17,11 @@
     
     <!-- Dependencies, plugins, build profiles, etc. can be specified as needed -->
     <dependencies>
+         <dependency>
+                  <groupId>commons-logging</groupId>
+                  <artifactId>commons-logging</artifactId>
+                  <version>1.2</version>
+         <dependency>
     </dependencies>
 
 </project>
